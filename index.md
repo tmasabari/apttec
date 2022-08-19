@@ -1,4 +1,8 @@
 ---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
 title: "Welcome to my blog"
 ---
 
@@ -37,4 +41,3 @@ title: "Welcome to my blog"
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tmasabari&label=Profile%20views&color=0e75b6&style=flat" alt="tmasabari" /> </p>
-
